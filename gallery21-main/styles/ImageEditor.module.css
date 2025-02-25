@@ -1,0 +1,21 @@
+.upload-area {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  border: 2px dashed #ddd;
+  padding: 20px;
+}
+
+.imageCanvas {
+  max-width: 100%;
+  height: auto;
+}
+
+@media (min-width: 768px) {
+  .upload-area {
+    max-width: 80%;
+  }
+}

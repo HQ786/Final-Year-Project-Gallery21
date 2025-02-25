@@ -1,0 +1,26 @@
+/* styles.css */
+.profile-dropdown {
+  transform: translateY(-100%);
+  opacity: 0;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+  pointer-events: none; /* Prevent interactions when not visible */
+}
+
+.profile-dropdown.show {
+  transform: translateY(0);
+  opacity: 1;
+  pointer-events: auto; /* Allow interactions when visible */
+}
+
+.notification-card {
+  transform: translateY(-100%);
+  opacity: 0;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+  pointer-events: none; /* Prevent interactions when not visible */
+}
+
+.notification-card.show {
+  transform: translateY(0);
+  opacity: 1;
+  pointer-events: auto; /* Allow interactions when visible */
+}

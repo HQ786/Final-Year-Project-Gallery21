@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"components/GiphyComponent.jsx -> @giphy/react-components\":{\"id\":\"components/GiphyComponent.jsx -> @giphy/react-components\",\"files\":[\"static/chunks/_app-pages-browser_node_modules_giphy_react-components_dist_esm_index_js.js\"]}}"

@@ -1,0 +1,162 @@
+.container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.backButton {
+  margin-bottom: 20px;
+  font-size: 16px;
+  color: #0070f3;
+  text-decoration: none;
+}
+
+.gridContainer {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  width: 100%;
+  max-width: 1200px;
+  align-items: center; /* Vertically centers the items */
+  justify-items: center; /* Horizontally centers the items */
+}
+
+.part1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  height: 100%;
+}
+
+.part2 {
+  display: flex;
+  color: #ffffff;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  height: 100%;
+}
+
+.part3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px; /* Adjust this margin to move Part 3 down */
+}
+
+.objectStyle {
+  display: flex;
+  flex-direction: column;
+}
+
+.imageBtn {
+  background-color: #f0f0f0;
+  border-radius: 10px;
+  padding: 10px;
+  transition: transform 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.imageBtn:hover {
+  transform: scale(1.1);
+}
+
+.iconImage {
+  width: 24px;
+  height: 24px;
+}
+
+.colorStyle {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+  align-items: center;
+}
+
+.titleStyle {
+  font-size: 18px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.Colorstyle {
+  width: 100px;
+  height: 30px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.range {
+  width: 150px;
+  margin-bottom: 10px;
+}
+
+.drawPageStyle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.canvas {
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  width: 800px;
+  height: 600px;
+}
+
+.buttonsContainer {
+  display: flex;
+  gap: 20px;
+  margin: 10px;
+}
+
+.canvasButton {
+  padding: 10px 20px;
+  background-color: #0070f3;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.canvasButton:hover {
+  background-color: #005bb5;
+}
+
+.start-screen {
+  background-image: url('/images/art_purple.jpg') !important;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dropzone {
+  border: 2px dashed #cccccc;
+  border-radius: 5px;
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+  margin: 10px 0;
+}
+
+.dropzone:hover {
+  background-color: #a5a5a5;
+  z-index: 0.3;
+  opacity: 0.8;
+}
