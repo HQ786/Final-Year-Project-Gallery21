@@ -155,12 +155,12 @@ Below are some screenshots of Gallery21 in action:
 ![Picture 17](images/Picture%2017.png)
 
 
-![Picture 18](images/Picture%2018.png)
+![Picture 18](images/Picture%2018.jpg)
 
 
-![Picture 19](images/Picture%2019.png)
+![Picture 19](images/Picture%2019.jpg)
 
 
-![Picture 20](images/Picture%2020.png)
+
 
 
