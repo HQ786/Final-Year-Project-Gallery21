@@ -131,36 +131,36 @@ Below are some screenshots of Gallery21 in action:
 ![Picture 9](images/Picture%209.png)
 
 
-![Picture 10](images/Picture%210.png)
+![Picture 10](images/Picture%2010.png)
 
 
-![Picture 11](images/Picture%211.png)
+![Picture 11](images/Picture%2011.png)
 
 
-![Picture 12](images/Picture%212.png)
+![Picture 12](images/Picture%2012.png)
 
 
-![Picture 13](images/Picture%213.png)
+![Picture 13](images/Picture%2013.png)
 
 
-![Picture 14](images/Picture%214.png)
+![Picture 14](images/Picture%2014.png)
 
 
-![Picture 15](images/Picture%215.png)
+![Picture 15](images/Picture%2015.png)
 
 
-![Picture 16](images/Picture%216.png)
+![Picture 16](images/Picture%2016.png)
 
 
-![Picture 17](images/Picture%217.png)
+![Picture 17](images/Picture%2017.png)
 
 
-![Picture 18](images/Picture%218.png)
+![Picture 18](images/Picture%2018.png)
 
 
-![Picture 19](images/Picture%219.png)
+![Picture 19](images/Picture%2019.png)
 
 
-![Picture 20](images/Picture%220.png)
+![Picture 20](images/Picture%2020.png)
 
 
